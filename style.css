@@ -1,0 +1,12 @@
+.heading{
+    width: 100%;
+    font-size: 35px;
+}
+canvas{
+    border:  5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+}
+img{
+  position: fixed;
+  
+}
